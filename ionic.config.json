@@ -1,0 +1,7 @@
+{
+  "name": "quiz-harry-potter",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
